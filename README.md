@@ -30,7 +30,7 @@ Purpose of this analysis is to have the beta testers input their weather prefere
     - Country
     - Current weather description with the maximum temperature
     
-![WeatherPy_vacation_map](https://github.com/grwon/World_Weather_Analysis/blob/master/Vacation_Itinerary/WeatherPy_travel_map.png)
+![WeatherPy_vacation_map](https://github.com/grwon/World_Weather_Analysis/blob/master/Vacation_Search/WeatherPy_vacation_map.png)
 
 ### Travel Itinerary Map
 - A travel itinerary is created using the Google Directions API. It shows the route between four cities chosen from the customer's possible travel destinations. A marker layer map with a pop-up marker for each city on the itinerary is created.
